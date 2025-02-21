@@ -1,2 +1,3 @@
 data/Fake.csv
 data/True.csv
+data/*.csv
